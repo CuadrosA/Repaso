@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Repaso</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login_tittle">Sign In</string>
+    <string name="login_email">Enter an email</string>
+    <string name="login_psw">Enter a password</string>
+    <string name="login_btn">Login</string>
+    <string name="fragment_dashboard_tittle">RENDIMIENTO</string>
+    <string name="fragment_dashboard_kilometers">Kilómetros recorridos</string>
+    <string name="fragment_dashboard_minutes">Minutos Jugados</string>
+    <string name="fragment_dasboard_btn">Calcular</string>
+    <string name="fragment_dashboard_rendimiento">"El rendimiento es: "</string>
+    <string name="notificacions_title">EQUIPOS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_opciones">OPCIONES</string>
+</resources>
